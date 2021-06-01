@@ -21,10 +21,14 @@ If you want to know more about me, follow me on social media:
 
 ### 🚀 Skills:
 
+<br>
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fastxyz&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&show_owner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastxyz&theme=dracula&layout=compact&langs_count=10">
 </div>
+
+<br>
 
 <a target="_blank" href="https://www.w3schools.com/html">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
