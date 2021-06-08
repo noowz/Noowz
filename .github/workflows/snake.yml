@@ -1,4 +1,4 @@
-name: Snake
+name: Generate Datas
 
 on:
   schedule: # execute every 1 hour
