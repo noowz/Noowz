@@ -100,4 +100,4 @@ If you want to know more about me, follow me on social media:
 
 <hr>
 
-![Snake](https://github.com/Fastxyz/Fastxyz/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/Fastxyz/Fastxyz/blob/snake/github-contribution-grid-snake.svg)
