@@ -62,16 +62,16 @@ If you want to know more about me, follow me on social media:
   <img align="left" alt="Stelar" width="30px" src="https://i.imgur.com/opmWmYA.jpg">
 </a> - Discord Bot with commands of moderation, fun, music and economy and level systems with many features.
 
-<a target="_blank" href="https://github.com/Fastxyz/ShineStar"> <b>ShineStar</b>
-  <img align="left" alt="ShineStar" width="30px" src="https://i.imgur.com/LrUlHL5.png">
+<a target="_blank" href="https://github.com/Fastxyz/BrawlGG"> <b>BrawlGG</b>
+  <img align="left" alt="BrawlGG" width="30px" src="https://i.imgur.com/LrUlHL5.png">
 </a> - Discord Bot and Website that shows you any Brawl Stars player's statistics and upcoming events with many features.
 
-<a target="_blank" href="https://github.com/Fastxyz/RoyaleStats"> <b>RoyaleStats</b>
-  <img align="left" alt="RoyaleStats" width="30px" src="https://i.imgur.com/aIq8zVt.png">
+<a target="_blank" href="https://github.com/Fastxyz/RoyaleGG"> <b>RoyaleGG</b>
+  <img align="left" alt="RoyaleGG" width="30px" src="https://i.imgur.com/aIq8zVt.png">
 </a> - Discord Bot and Website that shows you any Clash Royale player's statistics with many features.
 
-<a target="_blank" href="https://github.com/Fastxyz/ClashStats"> <b>ClashStats</b>
-  <img align="left" alt="ClashStats" width="30px" src="https://i.imgur.com/BJpmPPk.png">
+<a target="_blank" href="https://github.com/Fastxyz/ClashGG"> <b>ClashGG</b>
+  <img align="left" alt="ClashGG" width="30px" src="https://i.imgur.com/BJpmPPk.png">
 </a> - Discord Bot and Website that shows you any Clash of Clans player's statistics with many features.
 
 <a target="_blank" href="https://github.com/Fastxyz/HStats"> <b>HStats</b>
