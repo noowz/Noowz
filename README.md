@@ -46,10 +46,6 @@ If you want to know more about me, follow me on social media:
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
 
-<a target="_blank" href="https://www.typescriptlang.org/">
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-</a>
-
 <a target="_blank" href="https://www.python.org/">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
