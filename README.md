@@ -13,8 +13,8 @@ If you want to know more about me, follow me on social media:
 <a target="_blank" href="https://twitter.com/FastxyzGG">
   <img align="center" alt="Twitter" width="30px" src="https://i.imgur.com/BqpSjh3.png">
 </a>
-<a target="_blank" href="https://i.imgur.com/VU5lB6d.png">
-  <img align="center" alt="Discord" width="30px" src="https://cdn.discordapp.com/attachments/855177368438833204/893922179333382194/Fastxyz9700-badges.png">
+<a target="_blank" href="https://cdn.discordapp.com/attachments/855177368438833204/893922179333382194/Fastxyz9700-badges.png">
+  <img align="center" alt="Discord" width="30px" src="https://i.imgur.com/2qnd9nm.png">
 </a>
 
 <hr>
