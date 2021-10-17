@@ -93,7 +93,3 @@ If you want to know more about me, follow me on social media:
 <a target="_blank" href="https://github.com/Fastxyz/SCRPC"> <b>SCRPC</b>
   <img align="left" alt="SCRPC" width="30px" src="https://i.imgur.com/9Mw8U6t.png">
 </a> - Discord Rich Presence that shows on your profile the pages you are browsing on the SkyCraft website.
-
-<hr>
-
-![Snake](https://github.com/Fastxyz/Fastxyz/blob/snake/github-contribution-grid-snake.svg)
