@@ -21,7 +21,6 @@ jobs:
           repositories_skipped: Fastxyz
           plugin_languages_skipped: Fastxyz
           config_timezone: Europe/Paris
-          plugin_introduction: yes
           plugin_achievements: yes
           plugin_activity: yes
           plugin_activity_days: 14
