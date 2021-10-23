@@ -22,11 +22,6 @@ jobs:
           plugin_languages_skipped: Fastxyz
           config_timezone: Europe/Paris
           plugin_achievements: yes
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_visibility: all
           plugin_gists: yes
           plugin_languages: yes
           plugin_languages_colors: github
