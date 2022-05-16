@@ -4,7 +4,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 
 ### Social Media:
 
-|<a target="_blank" href="https://youtube.com/c/Fastxyz"><img title="YouTube" alt="YouTube" align="center" width="40px" src="https://i.imgur.com/LAOZaTt.png"></a>|<a target="_blank" href="https://twitch.tv/fastxyz"><img title="Twitch" alt="Twitch" align="center" width="40px" src="https://i.imgur.com/g81bKdb.png"></a>|<a target="_blank" href="https://twitter.com/FastxyzGG"><img title="Twitter" alt="Twitter" align="center" width="40px" src="https://i.imgur.com/BqpSjh3.png"></a>|<a target="_blank" href="https://discord.com/users/163656084714815491"><img title="Discord" alt="Discord" align="center" width="40px" src="https://i.imgur.com/2qnd9nm.png"></a>|
+| <a target="_blank" href="https://youtube.com/c/Fastxyz"><img title="YouTube" alt="YouTube" align="center" width="40px" src="https://i.imgur.com/LAOZaTt.png"></a> | <a target="_blank" href="https://twitch.tv/fastxyz"><img title="Twitch" alt="Twitch" align="center" width="40px" src="https://i.imgur.com/g81bKdb.png"></a> | <a target="_blank" href="https://twitter.com/FastxyzGG"><img title="Twitter" alt="Twitter" align="center" width="40px" src="https://i.imgur.com/BqpSjh3.png"></a> | <a target="_blank" href="https://discord.com/users/163656084714815491"><img title="Discord" alt="Discord" align="center" width="40px" src="https://i.imgur.com/2qnd9nm.png"></a> |
 |--|--|--|--|
 
 <hr>
@@ -13,89 +13,61 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 
 ### OS:
 
-|<a target="_blank" href="https://microsoft.com/en-us/software-download/windows10"><img title="Windows" alt="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></a>|
+| <a target="_blank" href="https://microsoft.com/en-us/software-download/windows10"><img title="Windows" alt="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></a> |
 |--|
 
 ### IDE:
 
-|<a target="_blank" href="https://code.visualstudio.com"><img title="Visual Studio Code" alt="Visual Studio Code" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>|
+| <a target="_blank" href="https://code.visualstudio.com"><img title="Visual Studio Code" alt="Visual Studio Code" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a> |
 |--|
 
 ### Terminal:
 
-|<a target="_blank" href="https://hyper.is/"><img title="Hyper" alt="Hyper" align="center" width="40px" src="https://hyper.is/apple-touch-icon-152x152.png"></a>|
+| <a target="_blank" href="https://hyper.is/"><img title="Hyper" alt="Hyper" align="center" width="40px" src="https://hyper.is/apple-touch-icon-152x152.png"></a> |
 |--|
 
 ### Web Browser:
 
-|<a target="_blank" href="https://www.google.com/chrome"><img title="Google Chrome" alt="Google Chrome" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"></a>|
+| <a target="_blank" href="https://www.google.com/chrome"><img title="Google Chrome" alt="Google Chrome" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"></a> |
 |--|
 
 ### APIs:
 
-|<a target="_blank" href="https://discord.com/developers/docs/intro"><img title="Discord" alt="Discord" align="center" width="40px" src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico"></a> + <a target="_blank" href="https://discord.js.org"><img title="discord.js" alt="discord.js" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"></a>|<a target="_blank" href="https://developer.brawlstars.com"><img title="Brawl Stars" alt="Brawl Stars" align="center" width="40px" src="https://play-lh.googleusercontent.com/EiElcSrd6-o-19roiswSx0AZPzsq6qF3hUGHsSWDl5UVtj7G23DHkneM8ucwqyOmEg=s180-rw"></a> + <a target="_blank" href="https://brawlapi.com"><img title="BrawlAPI" alt="BrawlAPI" align="center" width="40px" src="https://cdn.brawlify.com/icons/star-512x512.png"></a>|<a target="_blank" href="https://developer.clashroyale.com"><img title="Clash Royale" alt="Clash Royale" align="center" width="40px" src="https://play-lh.googleusercontent.com/rIvZQ_H3hfmexC8vurmLczLtMNBFtxCEdmb2NwkSPz2ZuJJ5nRPD0HbSJ7YTyFGdADQ=s180-rw"></a> + <a target="_blank" href="https://github.com/AndreVarandas/clash-royale-api"><img title="Clash Royale API" alt="Clash Royale API" align="center" width="40px" src="https://raw.githubusercontent.com/AndreVarandas/clash-royale-api/master/art/logo.png"></a>|<a target="_blank" href="https://developer.clashofclans.com"><img title="Clash of Clans" alt="Clash of Clans" align="center" width="40px" src="https://play-lh.googleusercontent.com/JMNWaZel_qg6qj8T0bjX5OeLvXdka4hxzT_rsSVe5qQWHg798GmJcZetlQYm9-VlTsk=s180-rw"></a> + <a target="_blank" href="https://clashofclans.js.org"><img title="clashofclans.js" alt="clashofclans.js" align="center" width="40px" src="https://clashofclans.js.org/img/logo.svg"></a>|<a target="_blank" href="https://osu.ppy.sh/wiki/en/osu!api"><img title="osu!" alt="osu!" align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/langfr-260px-Osu%21_Logo_2016.svg.png"></a> + <a target="_blank" href="https://github.com/brussell98/node-osu"><img title="node-osu" alt="node-osu" align="center" width="40px" src="https://avatars.githubusercontent.com/u/16432550"></a>|<a target="_blank" href="https://api.hypixel.net"><img title="Hypixel" alt="Hypixel" align="center" width="40px" src="https://i.imgur.com/jFRcjBW.png"></a> + <a target="_blank" href="https://hypixel.stavzdev.me"><img title="Hypixel API • Reborn" alt="Hypixel API • Reborn" align="center" width="40px" src="https://hypixel.stavzdev.me/static/favicon.png"></a>|
+| <a target="_blank" href="https://discord.com/developers/docs/intro"><img title="Discord" alt="Discord" align="center" width="40px" src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico"></a> + <a target="_blank" href="https://discord.js.org"><img title="discord.js" alt="discord.js" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"></a> | <a target="_blank" href="https://developer.brawlstars.com"><img title="Brawl Stars" alt="Brawl Stars" align="center" width="40px" src="https://play-lh.googleusercontent.com/EiElcSrd6-o-19roiswSx0AZPzsq6qF3hUGHsSWDl5UVtj7G23DHkneM8ucwqyOmEg=s180-rw"></a> + <a target="_blank" href="https://brawlapi.com"><img title="BrawlAPI" alt="BrawlAPI" align="center" width="40px" src="https://cdn.brawlify.com/icons/star-512x512.png"></a> | <a target="_blank" href="https://developer.clashroyale.com"><img title="Clash Royale" alt="Clash Royale" align="center" width="40px" src="https://play-lh.googleusercontent.com/rIvZQ_H3hfmexC8vurmLczLtMNBFtxCEdmb2NwkSPz2ZuJJ5nRPD0HbSJ7YTyFGdADQ=s180-rw"></a> + <a target="_blank" href="https://github.com/AndreVarandas/clash-royale-api"><img title="Clash Royale API" alt="Clash Royale API" align="center" width="40px" src="https://raw.githubusercontent.com/AndreVarandas/clash-royale-api/master/art/logo.png"></a> | <a target="_blank" href="https://developer.clashofclans.com"><img title="Clash of Clans" alt="Clash of Clans" align="center" width="40px" src="https://play-lh.googleusercontent.com/JMNWaZel_qg6qj8T0bjX5OeLvXdka4hxzT_rsSVe5qQWHg798GmJcZetlQYm9-VlTsk=s180-rw"></a> + <a target="_blank" href="https://clashofclans.js.org"><img title="clashofclans.js" alt="clashofclans.js" align="center" width="40px" src="https://clashofclans.js.org/img/logo.svg"></a> | <a target="_blank" href="https://osu.ppy.sh/wiki/en/osu!api"><img title="osu!" alt="osu!" align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/langfr-260px-Osu%21_Logo_2016.svg.png"></a> + <a target="_blank" href="https://github.com/brussell98/node-osu"><img title="node-osu" alt="node-osu" align="center" width="40px" src="https://avatars.githubusercontent.com/u/16432550"></a> | <a target="_blank" href="https://api.hypixel.net"><img title="Hypixel" alt="Hypixel" align="center" width="40px" src="https://i.imgur.com/jFRcjBW.png"></a> + <a target="_blank" href="https://hypixel.stavzdev.me"><img title="Hypixel API • Reborn" alt="Hypixel API • Reborn" align="center" width="40px" src="https://hypixel.stavzdev.me/static/favicon.png"></a> |
 |--|--|--|--|--|--|
 
 ### Programming Languages:
 
-|<a target="_blank" href="https://w3schools.com/html"><img title="HTML" alt="HTML" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>|<a target="_blank" href="https://w3schools.com/css"><img title="CSS" alt="CSS" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>|<a target="_blank" href="https://javascript.com"><img title="JavaScript" alt="JavaScript" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>|
+| <a target="_blank" href="https://w3schools.com/html"><img title="HTML" alt="HTML" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a> | <a target="_blank" href="https://w3schools.com/css"><img title="CSS" alt="CSS" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a> | <a target="_blank" href="https://javascript.com"><img title="JavaScript" alt="JavaScript" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a> |
 |--|--|--|
 
 ### Frameworks:
 
-|<a target="_blank" href="https://nodejs.org/en"><img title="Node.js" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>|
+| <a target="_blank" href="https://nodejs.org/en"><img title="Node.js" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
 |--|
 
 ### Databases:
 
-|<a target="_blank" href="https://mongodb.com/atlas/database"><img title="MongoDB" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>|
+| <a target="_blank" href="https://mongodb.com/atlas/database"><img title="MongoDB" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a> |
 |--|
 
 ### Clouds:
 
-|<a target="_blank" href="https://heroku.com"><img title="Heroku" alt="Heroku" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"></a>|<a target="_blank" href="https://discloudbot.com"><img title="DisCloud" alt="DisCloud" align="center" width="40px" src="https://i.imgur.com/VWTRDSw.png"></a>|
+| <a target="_blank" href="https://heroku.com"><img title="Heroku" alt="Heroku" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"></a> | <a target="_blank" href="https://discloudbot.com"><img title="DisCloud" alt="DisCloud" align="center" width="40px" src="https://i.imgur.com/VWTRDSw.png"></a> |
 |--|--|
 
 <hr>
 
 ## 🗂 Projects:
 
-<a target="_blank" href="https://github.com/Fastxyz/Stelar"> <b>Stelar</b>
-  <img align="left" alt="Stelar" width="30px" src="https://i.imgur.com/opmWmYA.jpg">
-</a> - Discord Bot with commands of moderation, fun, music and economy and level systems with many features.
-
-<a target="_blank" href="https://github.com/Fastxyz/BrawlGG"> <b>BrawlGG</b>
-  <img align="left" alt="BrawlGG" width="30px" src="https://i.imgur.com/LrUlHL5.png">
-</a> - Discord Bot and Website that shows you any Brawl Stars player's statistics and upcoming events with many features.
-
-<a target="_blank" href="https://github.com/Fastxyz/RoyaleGG"> <b>RoyaleGG</b>
-  <img align="left" alt="RoyaleGG" width="30px" src="https://i.imgur.com/aIq8zVt.png">
-</a> - Discord Bot and Website that shows you any Clash Royale player's statistics with many features.
-
-<a target="_blank" href="https://github.com/Fastxyz/ClashGG"> <b>ClashGG</b>
-  <img align="left" alt="ClashGG" width="30px" src="https://i.imgur.com/BJpmPPk.png">
-</a> - Discord Bot and Website that shows you any Clash of Clans player's statistics with many features.
-
-<a target="_blank" href="https://github.com/Fastxyz/HStats"> <b>HStats</b>
-  <img align="left" alt="HStats" width="30px" src="https://i.imgur.com/G8nLp9k.png">
-</a> - Discord Bot and Website that shows you any Hypixel player's statistics with many features.
-
-<a target="_blank" href="https://github.com/Fastxyz/SCStats"> <b>SCStats</b>
-  <img align="left" alt="SCStats" width="30px" src="https://i.imgur.com/9Mw8U6t.png">
-</a> - Discord Bot and Website that shows you any SkyCraft player's statistics with many features.
-
-<a target="_blank" href="https://github.com/Fastxyz/BSRPC"> <b>BSRPC</b>
-  <img align="left" alt="BSRPC" width="30px" src="https://i.imgur.com/LrUlHL5.png">
-</a> - Discord Rich Presence that shows on your profile your Brawl Stars statistics.
-
-<a target="_blank" href="https://github.com/Fastxyz/CRRPC"> <b>CRRPC</b>
-  <img align="left" alt="CRRPC" width="30px" src="https://i.imgur.com/aIq8zVt.png">
-</a> - Discord Rich Presence that shows on your profile your Clash Royale statistics.
-
-<a target="_blank" href="https://github.com/Fastxyz/COCRPC"> <b>COCRPC</b>
-  <img align="left" alt="COCRPC" width="30px" src="https://i.imgur.com/BJpmPPk.png">
-</a> - Discord Rich Presence that shows on your profile your Clash of Clans statistics.
-
-<a target="_blank" href="https://github.com/Fastxyz/SCRPC"> <b>SCRPC</b>
-  <img align="left" alt="SCRPC" width="30px" src="https://i.imgur.com/9Mw8U6t.png">
-</a> - Discord Rich Presence that shows on your profile the pages you are browsing on the SkyCraft website.
+| Name | Description |
+| ----------- | ----------- |
+| <a target="_blank" href="https://github.com/Fastxyz/Stelar"><b>Stelar</b><img align="left" alt="Stelar" width="40px" src="https://i.imgur.com/opmWmYA.jpg"></a> | Discord Bot with commands of moderation, fun, music and economy and level systems with many features. |
+| <a target="_blank" href="https://github.com/Fastxyz/BrawlGG"><b>BrawlGG</b><img align="left" alt="BrawlGG" width="40px" src="https://i.imgur.com/LrUlHL5.png"></a> | Discord Bot and Website that shows you any Brawl Stars player's statistics and upcoming events with many features. |
+| <a target="_blank" href="https://github.com/Fastxyz/RoyaleGG"><b>RoyaleGG</b><img align="left" alt="RoyaleGG" width="40px" src="https://i.imgur.com/aIq8zVt.png"></a> | Discord Bot and Website that shows you any Clash Royale player's statistics with many features. |
+| <a target="_blank" href="https://github.com/Fastxyz/ClashGG"><b>ClashGG</b><img align="left" alt="ClashGG" width="40px" src="https://i.imgur.com/BJpmPPk.png"></a> | Discord Bot and Website that shows you any Clash of Clans player's statistics with many features. |
+| <a target="_blank" href="https://github.com/Fastxyz/HStats"><b>HStats</b><img align="left" alt="HStats" width="40px" src="https://i.imgur.com/G8nLp9k.png"></a> | Discord Bot and Website that shows you any Hypixel player's statistics with many features. |
+| <a target="_blank" href="https://github.com/Fastxyz/SCStats"><b>SCStats</b><img align="left" alt="SCStats" width="40px" src="https://i.imgur.com/9Mw8U6t.png"></a> | Discord Bot and Website that shows you any SkyCraft player's statistics with many features. |
+| <a target="_blank" href="https://github.com/Fastxyz/BSRPC"><b>BSRPC</b><img align="left" alt="BSRPC" width="40px" src="https://i.imgur.com/LrUlHL5.png"></a> | Discord Rich Presence that shows on your profile your Brawl Stars statistics. |
+| <a target="_blank" href="https://github.com/Fastxyz/CRRPC"><b>CRRPC</b><img align="left" alt="CRRPC" width="40px" src="https://i.imgur.com/aIq8zVt.png"></a> | Discord Rich Presence that shows on your profile your Clash Royale statistics. |
+| <a target="_blank" href="https://github.com/Fastxyz/COCRPC"><b>COCRPC</b><img align="left" alt="COCRPC" width="40px" src="https://i.imgur.com/BJpmPPk.png"></a> | Discord Rich Presence that shows on your profile your Clash of Clans statistics. |
