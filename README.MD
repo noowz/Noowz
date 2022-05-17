@@ -62,12 +62,12 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 
 | Name | Description |
 | ----------- | ----------- |
-| <a target="_blank" href="https://github.com/Fastxyz/Stelar"><b>Stelar</b><img align="left" alt="Stelar" width="40px" src="https://i.imgur.com/opmWmYA.jpg"></a> | Discord Bot with commands of moderation, fun, music and economy and level systems with many features. |
-| <a target="_blank" href="https://github.com/Fastxyz/BrawlGG"><b>BrawlGG</b><img align="left" alt="BrawlGG" width="40px" src="https://i.imgur.com/LrUlHL5.png"></a> | Discord Bot and Website that shows you any Brawl Stars player's statistics and upcoming events with many features. |
-| <a target="_blank" href="https://github.com/Fastxyz/RoyaleGG"><b>RoyaleGG</b><img align="left" alt="RoyaleGG" width="40px" src="https://i.imgur.com/aIq8zVt.png"></a> | Discord Bot and Website that shows you any Clash Royale player's statistics with many features. |
-| <a target="_blank" href="https://github.com/Fastxyz/ClashGG"><b>ClashGG</b><img align="left" alt="ClashGG" width="40px" src="https://i.imgur.com/BJpmPPk.png"></a> | Discord Bot and Website that shows you any Clash of Clans player's statistics with many features. |
-| <a target="_blank" href="https://github.com/Fastxyz/HStats"><b>HStats</b><img align="left" alt="HStats" width="40px" src="https://i.imgur.com/G8nLp9k.png"></a> | Discord Bot and Website that shows you any Hypixel player's statistics with many features. |
-| <a target="_blank" href="https://github.com/Fastxyz/SCStats"><b>SCStats</b><img align="left" alt="SCStats" width="40px" src="https://i.imgur.com/9Mw8U6t.png"></a> | Discord Bot and Website that shows you any SkyCraft player's statistics with many features. |
-| <a target="_blank" href="https://github.com/Fastxyz/BSRPC"><b>BSRPC</b><img align="left" alt="BSRPC" width="40px" src="https://i.imgur.com/LrUlHL5.png"></a> | Discord Rich Presence that shows on your profile your Brawl Stars statistics. |
-| <a target="_blank" href="https://github.com/Fastxyz/CRRPC"><b>CRRPC</b><img align="left" alt="CRRPC" width="40px" src="https://i.imgur.com/aIq8zVt.png"></a> | Discord Rich Presence that shows on your profile your Clash Royale statistics. |
-| <a target="_blank" href="https://github.com/Fastxyz/COCRPC"><b>COCRPC</b><img align="left" alt="COCRPC" width="40px" src="https://i.imgur.com/BJpmPPk.png"></a> | Discord Rich Presence that shows on your profile your Clash of Clans statistics. |
+| <a target="_blank" href="https://github.com/Fastxyz/Stelar"><b>Stelar</b></a> | Discord Bot with commands of moderation, fun, music and economy and level systems with many features. |
+| <a target="_blank" href="https://github.com/Fastxyz/BrawlTracker"><b>BrawlTracker</b></a> | Discord Bot and Website that shows you any Brawl Stars player's statistics and upcoming events with many features. |
+| <a target="_blank" href="https://github.com/Fastxyz/RoyaleTracker"><b>RoyaleTracker</b></a> | Discord Bot and Website that shows you any Clash Royale player's statistics with many features. |
+| <a target="_blank" href="https://github.com/Fastxyz/ClashTracker"><b>ClashTracker</b></a> | Discord Bot and Website that shows you any Clash of Clans player's statistics with many features. |
+| <a target="_blank" href="https://github.com/Fastxyz/HStats"><b>HStats</b></a> | Discord Bot and Website that shows you any Hypixel player's statistics with many features. |
+| <a target="_blank" href="https://github.com/Fastxyz/SCStats"><b>SCStats</b></a> | Discord Bot and Website that shows you any SkyCraft player's statistics with many features. |
+| <a target="_blank" href="https://github.com/Fastxyz/BSRPC"><b>BSRPC</b></a> | Discord Rich Presence that shows on your profile your Brawl Stars statistics. |
+| <a target="_blank" href="https://github.com/Fastxyz/CRRPC"><b>CRRPC</b></a> | Discord Rich Presence that shows on your profile your Clash Royale statistics. |
+| <a target="_blank" href="https://github.com/Fastxyz/COCRPC"><b>COCRPC</b></a> | Discord Rich Presence that shows on your profile your Clash of Clans statistics. |
