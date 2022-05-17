@@ -66,7 +66,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 | <a target="_blank" href="https://github.com/Fastxyz/BrawlTracker"><b>BrawlTracker</b></a> | Discord Bot and Website that shows you any Brawl Stars player's statistics and upcoming events with many features. |
 | <a target="_blank" href="https://github.com/Fastxyz/RoyaleTracker"><b>RoyaleTracker</b></a> | Discord Bot and Website that shows you any Clash Royale player's statistics with many features. |
 | <a target="_blank" href="https://github.com/Fastxyz/ClashTracker"><b>ClashTracker</b></a> | Discord Bot and Website that shows you any Clash of Clans player's statistics with many features. |
-| <a target="_blank" href="https://github.com/Fastxyz/HStats"><b>HStats</b></a> | Discord Bot and Website that shows you any Hypixel player's statistics with many features. |
+| <a target="_blank" href="https://github.com/Fastxyz/HypixelTracker"><b>HypixelTracker</b></a> | Discord Bot and Website that shows you any Hypixel player's statistics with many features. |
 | <a target="_blank" href="https://github.com/Fastxyz/SCStats"><b>SCStats</b></a> | Discord Bot and Website that shows you any SkyCraft player's statistics with many features. |
 | <a target="_blank" href="https://github.com/Fastxyz/BSRPC"><b>BSRPC</b></a> | Discord Rich Presence that shows on your profile your Brawl Stars statistics. |
 | <a target="_blank" href="https://github.com/Fastxyz/CRRPC"><b>CRRPC</b></a> | Discord Rich Presence that shows on your profile your Clash Royale statistics. |
