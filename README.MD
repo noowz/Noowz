@@ -4,8 +4,8 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 
 ### Social Media:
 
-| <a target="_blank" href="https://youtube.com/c/Fastxyz"><img title="YouTube" alt="YouTube" align="center" width="40px" src="https://i.imgur.com/LAOZaTt.png"></a> | <a target="_blank" href="https://twitch.tv/fastxyz"><img title="Twitch" alt="Twitch" align="center" width="40px" src="https://i.imgur.com/g81bKdb.png"></a> | <a target="_blank" href="https://twitter.com/FastxyzGG"><img title="Twitter" alt="Twitter" align="center" width="40px" src="https://i.imgur.com/BqpSjh3.png"></a> | <a target="_blank" href="https://discord.com/users/163656084714815491"><img title="Discord" alt="Discord" align="center" width="40px" src="https://i.imgur.com/2qnd9nm.png"></a> |
-|--|--|--|--|
+| <a target="_blank" href="https://twitter.com/FastxyzGG"><img title="Twitter" alt="Twitter" align="center" width="40px" src="https://i.imgur.com/BqpSjh3.png"></a> | <a target="_blank" href="https://discord.com/users/163656084714815491"><img title="Discord" alt="Discord" align="center" width="40px" src="https://i.imgur.com/2qnd9nm.png"></a> |
+|--|--|
 
 <hr>
 
