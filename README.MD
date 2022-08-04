@@ -29,19 +29,19 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 ### IDE:
 
 <a target="_blank" href="https://code.visualstudio.com">
-	<img title="Visual Studio Code" alt="Visual Studio Code" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+	<img title="Visual Studio Code" alt="Visual Studio Code" align="center" width="40px" src="https://code.visualstudio.com/favicon.ico">
 </a>
 
 ### Terminal:
 
-<a target="_blank" href="https://hyper.is/">
-	<img title="Hyper" alt="Hyper" align="center" width="40px" src="https://hyper.is/apple-touch-icon-152x152.png">
+<a target="_blank" href="https://hyper.is">
+	<img title="Hyper" alt="Hyper" align="center" width="40px" src="https://hyper.is/favicon-32x32.png">
 </a>
 
 ### Web Browser:
 
 <a target="_blank" href="https://google.com/chrome">
-	<img title="Google Chrome" alt="Google Chrome" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg">
+	<img title="Google Chrome" alt="Google Chrome" align="center" width="40px" src="https://www.google.com/chrome/static/images/favicons/android-icon-192x192.png">
 </a>
 
 ### Programming Languages:
@@ -54,7 +54,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 	<img title="CSS" alt="CSS" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </a>
 
-<a target="_blank" href="https://javascript.com">
+<a target="_blank" href="https://w3schools.com/js">
 	<img title="JavaScript" alt="JavaScript" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </a>
 
@@ -62,23 +62,27 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 ### Frameworks:
 
 <a target="_blank" href="https://nodejs.org/en">
-	<img title="Node.js" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+	<img title="Node.js" alt="Node.js" width="40px" src="https://nodejs.org/static/images/favicons/apple-touch-icon.png">
 </a>
 
 ### Databases:
 
 <a target="_blank" href="https://mongodb.com/atlas/database">
-	<img title="MongoDB" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+	<img title="MongoDB" alt="MongoDB" width="40px" src="https://www.mongodb.com/assets/images/global/favicon.ico">
 </a>
 
-### Clouds:
+### Clouds/Hosts:
+
+<a target="_blank" href="https://vercel.com">
+	<img title="Vercel" alt="Vercel" align="center" width="40px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico">
+</a>
 
 <a target="_blank" href="https://heroku.com">
-	<img title="Heroku" alt="Heroku" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
+	<img title="Heroku" alt="Heroku" align="center" width="40px" src="https://www.herokucdn.com/favicon.ico">
 </a>
 
 <a target="_blank" href="https://discloudbot.com">
-	<img title="DisCloud" alt="DisCloud" align="center" width="40px" src="https://discloudbot.com/favicon.ico">
+	<img title="DisCloud" alt="DisCloud" align="center" width="40px" src="https://discloudbot.com/img/favicon.ico">
 </a>
 
 <a target="_blank" href="https://squarecloud.app">
