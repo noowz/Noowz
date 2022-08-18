@@ -35,7 +35,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 ### Terminal:
 
 <a target="_blank" href="https://hyper.is">
-	<img title="Hyper" alt="Hyper" align="center" width="40px" src="https://hyper.is/favicon-32x32.png">
+	<img title="Hyper" alt="Hyper" align="center" width="40px" src="https://hyper.is/apple-touch-icon-152x152.png">
 </a>
 
 ### Web Browser:
