@@ -4,7 +4,7 @@
 
 ## 📄 About me:
 
-Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/Fastxyz">**Fastxyz**</a>, and I'm a 18 years old Back-End Developer. I'm Portuguese but I'm currently living in France. In my free time I like to code, to play video games and to watch videos on YouTube or series on Netflix.
+Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/Fastxyz">**Fastxyz**</a>, and I'm a 18 years old Web Developer. I'm Portuguese but I'm currently living in France. In my free time I like coding, playing video games and watching videos on YouTube or series on Netflix.
 
 ### 🌎 Social Media:
 
