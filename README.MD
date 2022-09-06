@@ -77,8 +77,8 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 	<img title="Vercel" alt="Vercel" align="center" width="40px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico">
 </a>
 
-<a target="_blank" href="https://heroku.com">
-	<img title="Heroku" alt="Heroku" align="center" width="40px" src="https://www.herokucdn.com/favicon.ico">
+<a target="_blank" href="https://cloudflare.com">
+	<img title="Cloudflare" alt="Cloudflare" align="center" width="40px" src="https://cloudflare.com/favicon.ico">
 </a>
 
 <a target="_blank" href="https://discloudbot.com">
