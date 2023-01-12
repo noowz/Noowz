@@ -58,7 +58,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 	<img title="CSS" alt="CSS" align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
 </a>
 
-<a target="_blank" href="https://w3schools.com/js">
+<a target="_blank" href="https://javascript.com">
 	<img title="JavaScript" alt="JavaScript" align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
 </a>
 
@@ -66,10 +66,13 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 	<img title="PHP" alt="PHP" align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg">
 </a>
 
-<a target="_blank" href="https://w3schools.com/cs">
+<a target="_blank" href="https://learn.microsoft.com/dotnet/csharp">
 	<img title="C#" alt="C#" align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg">
 </a>
 
+<a target="_blank" href="https://python.org">
+	<img title="Python" alt="Python" align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
+</a>
 
 ### Frameworks:
 
