@@ -62,7 +62,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 	<img title="JavaScript" alt="JavaScript" align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
 </a>
 
-<a target="_blank" href="https://w3schools.com/php">
+<a target="_blank" href="https://php.net">
 	<img title="PHP" alt="PHP" align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg">
 </a>
 
@@ -81,6 +81,10 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 
 <a target="_blank" href="https://mongodb.com/atlas/database">
 	<img title="MongoDB" alt="MongoDB" width="40px" src="https://mongodb.com/assets/images/global/favicon.ico">
+</a>
+
+<a target="_blank" href="https://mysql.com">
+	<img title="MySQL" alt="MySQL" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg">
 </a>
 
 ### Clouds/Hosts:
