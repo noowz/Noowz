@@ -1,5 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=44096711)
-
 <img width="400px" min-width="400px" max-width="400px" align="right" src="https://i.imgur.com/OkB4oYv.png">
 
 ## 📄 About me:
@@ -15,6 +13,8 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 <a target="_blank" href="https://discord.com/users/163656084714815491">
 	<img title="Discord" alt="Discord" width="40px" src="https://i.imgur.com/n5C5PKl.png">
 </a>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/163656084714815491)](https://discord.com/users/163656084714815491)
 
 <hr>
 
