@@ -101,7 +101,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 </a>
 
 <a target="_blank" href="https://discloudbot.com">
-	<img title="DisCloud" alt="DisCloud" align="center" width="40px" src="https://discloudbot.com/favicon.ico">
+	<img title="DisCloud" alt="DisCloud" align="center" width="40px" src="https://i.imgur.com/4tC1793.png">
 </a>
 
 <a target="_blank" href="https://squarecloud.app">
