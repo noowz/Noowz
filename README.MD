@@ -77,7 +77,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 ### Frameworks:
 
 <a target="_blank" href="https://nodejs.org/en">
-	<img title="Node.js" alt="Node.js" width="40px" src="https://nodejs.org/static/images/favicons/apple-touch-icon.png">
+	<img title="Node.js" alt="Node.js" width="40px" src="https://nodejs.org/static/images/favicons/favicon.png">
 </a>
 
 ### Databases:
