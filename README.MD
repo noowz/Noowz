@@ -7,15 +7,15 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 ### 🌎 Social Media:
 
 <a target="_blank" href="https://linkedin.com/in/danieeel-dev">
-	<img title="Linkedin" alt="Linkedin" width="40px" src="https://i.imgur.com/H4o9bPB.png">
+	<img title="Linkedin" alt="Linkedin" width="40px" src="https://ibb.co/jyBtH8K">
 </a>
 
 <a target="_blank" href="https://twitter.com/FastxyzGG">
-	<img title="Twitter" alt="Twitter" width="40px" src="https://i.imgur.com/tYd5Mna.png">
+	<img title="Twitter" alt="Twitter" width="40px" src="https://ibb.co/19Fks5b">
 </a>
 
 <a target="_blank" href="https://discord.com/users/163656084714815491">
-	<img title="Discord" alt="Discord" width="40px" src="https://i.imgur.com/Vj0TZGJ.png">
+	<img title="Discord" alt="Discord" width="40px" src="https://ibb.co/sHf7KfZ">
 </a>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/163656084714815491)](https://discord.com/users/163656084714815491)
