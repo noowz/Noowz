@@ -7,11 +7,11 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 ### 🌎 Social Media:
 
 <a target="_blank" href="https://linkedin.com/in/danieeel-dev">
-	<img title="Linkedin" alt="Linkedin" width="40px" src="https://i.imgur.com/1w7e0uS.png">
+	<img title="Linkedin" alt="Linkedin" width="40px" src="https://i.imgur.com/Br3AjiL.png">
 </a>
 
 <a target="_blank" href="https://twitter.com/FastxyzGG">
-	<img title="Twitter" alt="Twitter" width="40px" src="https://i.ibb.co/3TTdcsS/twitter.png">
+	<img title="Twitter" alt="Twitter" width="40px" src="https://i.imgur.com/1w7e0uS.png">
 </a>
 
 <a target="_blank" href="https://discord.com/users/163656084714815491">
