@@ -109,7 +109,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/n
 </a>
 
 <a target="_blank" href="https://squarecloud.app">
-	<img title="SquareCloud" alt="SquareCloud" align="center" width="40px" src="https://squarecloud.app/favicon.ico">
+	<img title="SquareCloud" alt="SquareCloud" align="center" width="40px" src="https://i.imgur.com/5mZp3AA.png">
 </a>
 
 <hr>
