@@ -116,7 +116,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/n
 
 ## ⭐ GitHub Profile Stats:
 
-<img title="GitHub Profile Views" alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=Fastxyz&color=blueviolet&style=for-the-badge">
+<img title="GitHub Profile Views" alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=noowz&color=blueviolet&style=for-the-badge">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fastxyz&theme=dracula&show_icons=true&include_all_commits=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fastxyz&theme=dracula&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=noowz&theme=dracula&show_icons=true&include_all_commits=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=noowz&theme=dracula&layout=compact">
