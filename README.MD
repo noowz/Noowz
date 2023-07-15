@@ -2,7 +2,7 @@
 
 ## 📄 About me:
 
-Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/noowz">**Noowz**</a>, and I'm a 19 years old Web Developer. I'm Portuguese but I'm currently living in France. In my free time I like coding, playing video games and watching videos on YouTube or series on Netflix.
+Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/noowz">**Noowz**</a>. I am 19 years old and I am Web Developer. I am Portuguese but I am currently living in France. In my free time I like coding, playing video games and watching videos on YouTube or series on Netflix.
 
 ### 🌎 Social Media:
 
