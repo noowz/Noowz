@@ -2,7 +2,7 @@
 
 ## 📄 About me:
 
-Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/Fastxyz">**Fastxyz**</a>, and I'm a 19 years old Web Developer. I'm Portuguese but I'm currently living in France. In my free time I like coding, playing video games and watching videos on YouTube or series on Netflix.
+Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/noowz">**Noowz**</a>, and I'm a 19 years old Web Developer. I'm Portuguese but I'm currently living in France. In my free time I like coding, playing video games and watching videos on YouTube or series on Netflix.
 
 ### 🌎 Social Media:
 
@@ -10,12 +10,12 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/F
 	<img title="Linkedin" alt="Linkedin" width="32px" src="https://i.imgur.com/Br3AjiL.png">
 </a>
 
-<a target="_blank" href="https://twitter.com/FastxyzGG">
-	<img title="Twitter" alt="Twitter" width="32px" src="https://i.imgur.com/1w7e0uS.png">
+<a target="_blank" href="https://twitter.com/noowzvlr">
+	<img title="Twitter" alt="Twitter" width="32px" src="https://i.imgur.com/fhm8uiH.png">
 </a>
 
 <a target="_blank" href="https://discord.com/users/163656084714815491">
-	<img title="Discord" alt="Discord" width="32px" src="https://i.imgur.com/gHYDuAO.png">
+	<img title="Discord" alt="Discord" width="32px" src="https://i.imgur.com/PDrj6ZQ.png">
 </a>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/163656084714815491?hideDiscrim=true)](https://discord.com/users/163656084714815491)
