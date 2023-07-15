@@ -15,7 +15,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/n
 </a>
 
 <a target="_blank" href="https://discord.com/users/163656084714815491">
-	<img title="Discord" alt="Discord" width="32px" src="https://i.imgur.com/qbs8lI4.png">
+	<img title="Discord" alt="Discord" width="32px" src="https://i.imgur.com/GSUXHGS.png">
 </a>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/163656084714815491?hideDiscrim=true)](https://discord.com/users/163656084714815491)
