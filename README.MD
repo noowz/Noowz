@@ -6,7 +6,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/n
 
 ### 🌎 Social Media:
 
-<a target="_blank" href="https://linkedin.com/in/danieeel-dev">
+<a target="_blank" href="https://linkedin.com/in/cdanieeel">
 	<img title="Linkedin" alt="Linkedin" width="32px" src="https://i.imgur.com/NJ0g1CR.png">
 </a>
 
