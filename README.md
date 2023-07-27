@@ -101,7 +101,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/n
 </a>
 
 <a target="_blank" href="https://netlify.com">
-	<img title="Vercel" alt="Vercel" align="center" width="40px" src="https://netlify.com/icon.svg">
+	<img title="Netlify" alt="Netlify" align="center" width="40px" src="https://netlify.com/icon.svg">
 </a>
 
 <a target="_blank" href="https://cloudflare.com">
