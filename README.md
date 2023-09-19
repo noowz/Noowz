@@ -10,8 +10,8 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/n
 	<img title="Linkedin" alt="Linkedin" width="32px" src="https://i.imgur.com/NJ0g1CR.png">
 </a>
 
-<a target="_blank" href="https://twitter.com/noowzvlr">
-	<img title="Twitter" alt="Twitter" width="32px" src="https://i.imgur.com/qAuSLgn.png">
+<a target="_blank" href="https://x.com/noowzvlr">
+	<img title="X" alt="X" width="32px" src="https://i.imgur.com/GSYNl9E.png">
 </a>
 
 <a target="_blank" href="https://discord.com/users/163656084714815491">
