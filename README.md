@@ -2,7 +2,7 @@
 
 ## 📄 About me
 
-Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/noowz">**Noowz**</a>. I am 19 years old and I am Web Developer. I am Portuguese but I am currently living in France. In my free time I like coding, playing video games and watching videos on YouTube or series on Netflix.
+Hey, I'm **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 19 years old and I am Web Developer. I am Portuguese but I am currently living in France. In my free time I like coding, playing video games and watching videos on YouTube or series on Netflix.
 
 ### 🌎 Social Media
 
@@ -120,7 +120,7 @@ Hey, I'm **Daniel**, also known as <a target="_blank" href="https://github.com/n
 
 ## ⭐ GitHub Profile Stats
 
-<img title="GitHub Profile Views" alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=Fastxyz&color=blueviolet&style=for-the-badge">
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Fastxyz&color=blueviolet&style=for-the-badge)
 
-<img src="https://github-readme-stats.vercel.app/api?username=noowz&theme=dracula&show_icons=true&include_all_commits=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=noowz&theme=dracula&layout=compact">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noowz&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=noowz&theme=dracula&layout=compact)
