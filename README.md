@@ -2,7 +2,7 @@
 
 <img alt="Computer" width="400px" min-width="400px" max-width="400px" align="right" src="https://i.imgur.com/OkB4oYv.png">
 
-Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 19 years old and I am Web Developer. I am Portuguese but I am currently living in France. In my free time I like coding, playing video games, listening to music and watching videos on YouTube or series/movies on Netflix.
+Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 20 years old and I am Web Developer. I am Portuguese but I am currently living in France. In my free time I like coding, playing video games, listening to music and watching videos on YouTube or series/movies on Netflix.
 
 ## 🌎 Social Media
 
