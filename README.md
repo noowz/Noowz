@@ -10,7 +10,7 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 	<img title="Linkedin" alt="Linkedin" width="40px" height="40px" src="https://i.imgur.com/NJ0g1CR.png">
 </a>
 
-<a target="_blank" href="https://x.com/noowzvlr">
+<a target="_blank" href="https://x.com/noowzgg">
 	<img title="X" alt="X" width="40px" height="40px" src="https://i.imgur.com/GSYNl9E.png">
 </a>
 
