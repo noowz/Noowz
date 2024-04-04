@@ -18,10 +18,6 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 	<img title="Discord" alt="Discord" width="40px" height="40px" src="https://i.imgur.com/GSUXHGS.png">
 </a>
 
-<a target="_blank" href="https://open.spotify.com/user/e5m4ip4gvvjxrxmsl21vechm3">
-	<img title="Spotify" alt="Spotify" width="40px" height="40px" src="https://open.spotifycdn.com/cdn/images/favicon.0f31d2ea.ico">
-</a>
-
 [![Discord Rich Presence](https://lanyard.cnrad.dev/api/163656084714815491?hideDiscrim=true)](https://discord.com/users/163656084714815491)
 
 ---
