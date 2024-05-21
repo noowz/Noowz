@@ -1,13 +1,13 @@
-# 📄 About me
+# 📄 About Me
 
-<img alt="Computer" width="400px" min-width="400px" max-width="400px" align="right" src="https://i.imgur.com/OkB4oYv.png">
+<img alt="Computer" width="400px" align="right" src="https://i.imgur.com/OkB4oYv.png">
 
-Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 20 years old and I am Web Developer. I am Portuguese but I am currently living in France. In my free time I like coding, playing video games, listening to music and watching videos on YouTube or series/movies on Netflix.
+Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am a 20-year-old Web Developer from Portugal, currently living in France. In my free time, I enjoy coding, playing video games, listening to music, and watching videos on YouTube or series/movies on Netflix.
 
 ## 🌎 Social Media
 
 <a target="_blank" href="https://linkedin.com/in/cdanieeel">
-	<img title="Linkedin" alt="Linkedin" width="40px" height="40px" src="https://i.imgur.com/NJ0g1CR.png">
+	<img title="LinkedIn" alt="LinkedIn" width="40px" height="40px" src="https://i.imgur.com/NJ0g1CR.png">
 </a>
 
 <a target="_blank" href="https://x.com/noowzgg">
@@ -24,7 +24,7 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 
 ## 🚀 Skills and Technologies
 
-### 💻 OS
+### 💻 Operating System
 
 <a target="_blank" href="https://microsoft.com/software-download/windows11">
 	<img title="Windows 11" alt="Windows 11" width="40px" height="40px" src="https://i.imgur.com/BsCTPzY.png">
@@ -36,16 +36,30 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 	<img title="Visual Studio Code" alt="Visual Studio Code" align="center" width="40px" height="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png">
 </a>
 
+### ⚙️ Web Browser
+
+<a target="_blank" href="https://google.com/chrome">
+	<img title="Google Chrome" alt="Google Chrome" align="center" width="40px" height="40px" src="https://google.com/chrome/static/images/favicons/android-icon-192x192.png">
+</a>
+
 ### 👨‍💻 Terminal
 
 <a target="_blank" href="https://hyper.is">
 	<img title="Hyper" alt="Hyper" align="center" width="40px" height="40px" src="https://hyper.is/apple-touch-icon-152x152.png">
 </a>
 
-### 🔧 Tools
+### 🔧 Development Tools
 
 <a target="_blank" href="https://git-scm.com">
 	<img title="Git" alt="Git" align="center" width="40px" height="40px" src="https://git-scm.com/favicon.ico">
+</a>
+
+<a target="_blank" href="https://wampserver.aviatechno.net">
+	<img title="WampServer" alt="WampServer" align="center" width="40px" height="40px" src="https://i.imgur.com/7pRkd9r.png">
+</a>
+
+<a target="_blank" href="https://insomnia.rest">
+	<img title="Insomnia" alt="Insomnia" align="center" width="40px" height="40px" src="https://i.imgur.com/TMlb8yl.png">
 </a>
 
 <a target="_blank" href="https://figma.com">
@@ -54,12 +68,6 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 
 <a target="_blank" href="https://adobe.com/pt/products/photoshop">
 	<img title="Photoshop" alt="Photoshop" align="center" width="40px" height="40px" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg">
-</a>
-
-### ⚙️ Web Browser
-
-<a target="_blank" href="https://google.com/chrome">
-	<img title="Google Chrome" alt="Google Chrome" align="center" width="40px" height="40px" src="https://google.com/chrome/static/images/favicons/android-icon-192x192.png">
 </a>
 
 ### 🖥️ Programming Languages
@@ -94,8 +102,12 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 	<img title="React" alt="React" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </a>
 
-<a target="_blank" href="https://react.dev">
+<a target="_blank" href="https://vitejs.dev">
 	<img title="Vite" alt="Vite" width="40px" height="40px" src="https://vitejs.dev/logo.svg">
+</a>
+
+<a target="_blank" href="https://nextjs.org">
+	<img title="Next.js" alt="Next.js" width="40px" height="40px" src="https://i.imgur.com/sgND7Nm.png">
 </a>
 
 <a target="_blank" href="https://tailwindcss.com">
@@ -120,7 +132,7 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 	<img title="MongoDB" alt="MongoDB" width="40px" height="40px" src="https://mongodb.com/assets/images/global/favicon.ico">
 </a>
 
-### ☁️ Clouds/Hosts
+### ☁️ Deployment & Hosting
 
 <a target="_blank" href="https://github.com">
 	<img title="GitHub" alt="GitHub" align="center" width="40px" height="40px" src="https://i.imgur.com/0knYvlw.png">
@@ -145,12 +157,3 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 <a target="_blank" href="https://squarecloud.app">
 	<img title="SquareCloud" alt="SquareCloud" align="center" width="40px" height="40px" src="https://i.imgur.com/5mZp3AA.png">
 </a>
-
----
-
-## ⭐ GitHub Profile Stats
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Fastxyz&color=blueviolet&style=for-the-badge)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noowz&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=noowz&theme=dracula)
