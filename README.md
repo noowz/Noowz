@@ -33,13 +33,13 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 ### 📝 IDE
 
 <a target="_blank" href="https://code.visualstudio.com">
-	<img title="Visual Studio Code" alt="Visual Studio Code" align="center" width="40px" height="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png">
+	<img title="Visual Studio Code" alt="Visual Studio Code" align="center" width="40px" height="40px" src="https://code.visualstudio.com/favicon.ico">
 </a>
 
 ### ⚙️ Web Browser
 
 <a target="_blank" href="https://google.com/chrome">
-	<img title="Google Chrome" alt="Google Chrome" align="center" width="40px" height="40px" src="https://google.com/chrome/static/images/favicons/android-icon-192x192.png">
+	<img title="Google Chrome" alt="Google Chrome" align="center" width="40px" height="40px" src="https://www.google.com/chrome/static/images/favicons/android-icon-192x192.png">
 </a>
 
 ### 👨‍💻 Terminal
@@ -66,30 +66,30 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 	<img title="Figma" alt="Figma" align="center" width="40px" height="40px" src="https://static.figma.com/app/icon/1/favicon.ico">
 </a>
 
-<a target="_blank" href="https://adobe.com/pt/products/photoshop">
-	<img title="Photoshop" alt="Photoshop" align="center" width="40px" height="40px" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg">
+<a target="_blank" href="https://adobe.com/products/photoshop">
+	<img title="Photoshop" alt="Photoshop" align="center" width="40px" height="40px" src="https://adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg">
 </a>
 
 ### 🖥️ Programming Languages
 
-<a target="_blank" href="https://w3schools.com/html">
-	<img title="HTML" alt="HTML" align="center" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+	<img title="HTML" alt="HTML" align="center" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png?20110131171049">
 </a>
 
-<a target="_blank" href="https://w3schools.com/css">
-	<img title="CSS" alt="CSS" align="center" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+	<img title="CSS" alt="CSS" align="center" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png?20210705212817">
 </a>
 
-<a target="_blank" href="https://javascript.com">
-	<img title="JavaScript" alt="JavaScript" align="center" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+	<img title="JavaScript" alt="JavaScript" align="center" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png">
 </a>
 
 <a target="_blank" href="https://typescriptlang.org">
-	<img title="TypeScript" alt="TypeScript" align="center" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+	<img title="TypeScript" alt="TypeScript" align="center" width="40px" height="40px" src="https://typescriptlang.org/icons/icon-512x512.png?v=8944a05a8b601855de116c8a56d3b3ae">
 </a>
 
 <a target="_blank" href="https://php.net">
-	<img title="PHP" alt="PHP" align="center" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg">
+	<img title="PHP" alt="PHP" align="center" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
 </a>
 
 ### 🛠️ Frameworks
@@ -99,7 +99,7 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 </a>
 
 <a target="_blank" href="https://react.dev">
-	<img title="React" alt="React" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+	<img title="React" alt="React" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png">
 </a>
 
 <a target="_blank" href="https://vitejs.dev">
@@ -107,7 +107,7 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 </a>
 
 <a target="_blank" href="https://nextjs.org">
-	<img title="Next.js" alt="Next.js" width="40px" height="40px" src="https://i.imgur.com/sgND7Nm.png">
+	<img title="Next.js" alt="Next.js" width="40px" height="40px" src="https://nextjs.org/favicon.ico">
 </a>
 
 <a target="_blank" href="https://tailwindcss.com">
@@ -115,11 +115,11 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 </a>
 
 <a target="_blank" href="https://symfony.com">
-	<img title="Symfony" alt="Symfony" width="40px" height="40px" src="https://symfony.com/favicons/favicon.svg">
+	<img title="Symfony" alt="Symfony" width="40px" height="40px" src="https://symfony.com/favicons/apple-touch-icon.png">
 </a>
 
 <a target="_blank" href="https://twig.symfony.com">
-	<img title="Twig" alt="Twig" width="40px" height="40px" src="https://i.imgur.com/KFeqHut.png">
+	<img title="Twig" alt="Twig" width="40px" height="40px" src="https://i.imgur.com/rmeKpGp.png">
 </a>
 
 ### 🟡 Databases
@@ -128,18 +128,18 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 	<img title="SQL" alt="SQL" width="40px" height="40px" src="https://i.imgur.com/GPW3YoN.png">
 </a>
 
-<a target="_blank" href="https://mongodb.com/atlas/database">
-	<img title="MongoDB" alt="MongoDB" width="40px" height="40px" src="https://mongodb.com/assets/images/global/favicon.ico">
+<a target="_blank" href="https://mongodb.com">
+	<img title="MongoDB" alt="MongoDB" width="40px" height="40px" src="https://www.mongodb.com/assets/images/global/favicon.ico">
 </a>
 
 ### ☁️ Deployment & Hosting
 
-<a target="_blank" href="https://github.com">
-	<img title="GitHub" alt="GitHub" align="center" width="40px" height="40px" src="https://i.imgur.com/0knYvlw.png">
+<a target="_blank" href="https://pages.github.com">
+	<img title="GitHub Pages" alt="GitHub Pages" align="center" width="40px" height="40px" src="https://i.imgur.com/0knYvlw.png">
 </a>
 
 <a target="_blank" href="https://vercel.com">
-	<img title="Vercel" alt="Vercel" align="center" width="40px" height="40px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico">
+	<img title="Vercel" alt="Vercel" align="center" width="40px" height="40px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png">
 </a>
 
 <a target="_blank" href="https://netlify.com">
@@ -151,9 +151,9 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 </a>
 
 <a target="_blank" href="https://discloudbot.com">
-	<img title="DisCloud" alt="DisCloud" align="center" width="40px" height="40px" src="https://i.imgur.com/4tC1793.png">
+	<img title="Discloud" alt="Discloud" align="center" width="40px" height="40px" src="https://i.imgur.com/4tC1793.png">
 </a>
 
 <a target="_blank" href="https://squarecloud.app">
-	<img title="SquareCloud" alt="SquareCloud" align="center" width="40px" height="40px" src="https://i.imgur.com/5mZp3AA.png">
+	<img title="SquareCloud" alt="SquareCloud" align="center" width="40px" height="40px" src="https://squarecloud.app/favicon.ico">
 </a>
