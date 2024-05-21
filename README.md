@@ -155,5 +155,5 @@ Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am 
 </a>
 
 <a target="_blank" href="https://squarecloud.app">
-	<img title="SquareCloud" alt="SquareCloud" align="center" width="40px" height="40px" src="https://squarecloud.app/favicon.ico">
+	<img title="Square Cloud" alt="Square Cloud" align="center" width="40px" height="40px" src="https://squarecloud.app/favicon.ico">
 </a>
