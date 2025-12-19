@@ -1,6 +1,6 @@
 # 📄 About Me
 
-👋🏻 Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am a 21-year-old Full-Stack Developer from Portugal, currently living in France. In my free time, I enjoy coding, playing video games, listening to music, and watching videos on YouTube or series/movies on Netflix.
+👋🏻 Hey, I am **Daniel**, also known as [**Noowz**](https://github.com/noowz). I am a 22-year-old Full-Stack Developer from Portugal, currently living in France. In my free time, I enjoy coding, playing video games, listening to music, and watching videos on YouTube or series/movies on Netflix.
 
 ---
 
